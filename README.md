@@ -1,1 +1,1 @@
-# maquetacion_sass
+# clase_47_objetos
